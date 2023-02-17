@@ -12,7 +12,6 @@ Dataset link: https://www.kaggle.com/datasets/datasnaek/youtube-new/code
 Research Questions to answer:
 
 What are the differences in the revenue according to each country?
-  What are the views per capita
   
 What are the factors that contribute to a video's popularity, such as the number of likes or dislikes, the publication date, or the tags used?
 
@@ -23,10 +22,6 @@ Are there any correlations between the number of views, likes, and dislikes for 
 What is the distribution of views across different video categories, such as music, comedy, or gaming?
 
 How does the language used in the video title and description affect the number of views or engagement metrics?
-
-What are the main trends in each country according to their categories?
-
-What is going to be the revenue in 2023?
 
 
 Rough Breakdown of Tasks:
