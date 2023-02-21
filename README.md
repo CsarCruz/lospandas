@@ -1,7 +1,7 @@
 # lospandas
 Name of the PROJECT1: Youtube Analysis
 
-Team members: Loncho Lozano, Cesar Cruz, Majo Garcia
+Team members: Loncho Lozano, Cesar Cruz, Majo Garcia, Marcela Maldonado
 
 Project description: In this project the team will be analyzing a Youtube Dataset. This dataset can be used to analyze trends in YouTube videos, such as which types of videos are most popular, what types of channels are most successful, and which countries have the most views. The data can provide valuable insights into the YouTube video ecosystem and help content creators to better understand their audience and the types of videos that are most likely to be successful.
 
